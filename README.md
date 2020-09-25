@@ -3,8 +3,8 @@
 
 ![monster](https://user-images.githubusercontent.com/61579772/94253827-6f6f6e00-ff58-11ea-9d61-64c64b39a311.jpg)
 
+- Live https://kuria-byte.github.io/Monster-Game/
 - The course is available at [Udemy](https://www.udemy.com/vuejs-2-the-complete-guide/).
-- Game built with Vue.js during course "Vue JS 2 - The Complete Guide"
 
 ## Summary
 
