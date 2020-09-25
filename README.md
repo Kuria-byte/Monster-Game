@@ -1,15 +1,15 @@
 # Monster-Game
 
-> Game built with Vue.js during course "Vue JS 2 - The Complete Guide"
 
 ![monster](https://user-images.githubusercontent.com/61579772/94253827-6f6f6e00-ff58-11ea-9d61-64c64b39a311.jpg)
 
-The course is available at [Udemy](https://www.udemy.com/vuejs-2-the-complete-guide/).
+- The course is available at [Udemy](https://www.udemy.com/vuejs-2-the-complete-guide/).
+- Game built with Vue.js during course "Vue JS 2 - The Complete Guide"
 
 ## Summary
 
 * [About the project](#about-the-project)
-* [How the game works](#how-the-game-works)
+* [How the game works](#Game Logic)
 * [How to play](#how-to-play)
 
 
