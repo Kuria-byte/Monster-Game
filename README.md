@@ -13,11 +13,9 @@
 * [How to play](#how-to-play)
 
 
-## About the project
+## What I learnt📐
 
-This is the first project of the course "Vue JS 2 - The Complete Guide".
-
-The goal is to create a game with basic Vue JS features to manipulate the DOM.
+- The goal is to create a game with basic Vue JS features to manipulate the DOM.
 
 ## Game Logic
 
