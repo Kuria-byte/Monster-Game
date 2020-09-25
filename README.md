@@ -9,7 +9,6 @@
 ## Summary
 
 * [About the project](#about-the-project)
-* [How the game works](#How the game works)
 * [How to play](#how-to-play)
 
 
